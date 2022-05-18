@@ -1,6 +1,6 @@
 # bikesharing
 
-[https://public.tableau.com/app/profile/brian.kenney/viz/Challenge_Module14_citibike/Citi_Story?publish=yes]
+[link to dashboard](https://public.tableau.com/app/profile/brian.kenney/viz/Challenge_Module14_citibike/Citi_Story?publish=yes)
 
 **Overview**
 
